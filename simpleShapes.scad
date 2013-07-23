@@ -8,11 +8,11 @@ wallWidth = 2; //thickness of walls
 distanceApart = 40; // distance between shapes 
 shapeHeight = 1; // How thick to make each shape before it starts to morph
 
-{
-rocketMan();
-}
+//{
+//rocketMan();
+//}
 
-module rocketMan(){
+//module rocketMan(){
 	
 	difference(){
 
@@ -30,4 +30,4 @@ module rocketMan(){
 
 
 	}
-}
+//}
